@@ -7,7 +7,7 @@
 #particles-js {
   background: rgb(0, 0, 0);
   background: rgb(2, 35, 41);
-  background: url(/winter.jpeg);
+  background: url('https://images.pexels.com/photos/773594/pexels-photo-773594.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
   background-size: cover;
   background-position: bottom;
   height: 100vh;
