@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#particles-js {
+  background: rgb(0, 0, 0);
+  background: rgb(2, 35, 41);
+  height: 100vh;
+}
